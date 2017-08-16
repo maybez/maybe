@@ -9,6 +9,7 @@
 - python下载地址:[python](https://www.python.org/downloads/)
 - Bison,Flex下载地址:[Bison](https://sourceforge.net/projects/winflexbison/files/win_flex_bison-2.5.5.zip/download)
 - GPerf下载地址:[GPerf](https://sourceforge.net/projects/gnuwin32/files/gperf/3.0.1/gperf-3.0.1.exe/download?use_mirror=nchc&download=)
+- VS2015-update3:[如果VS2015版本不够QtWebEngine模块会被跳过](http://blog.csdn.net/lostspeed/article/details/71271634).
 
 **以上材料下载后需要设置环境变量PATH.然后需要重启或者重新登录windows**
 
